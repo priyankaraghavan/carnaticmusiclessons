@@ -62,6 +62,7 @@ function renderLessons(lessons) {
         <div class="lesson-date">${formatDate(lesson.date)}</div>
         <div class="lesson-topics">${lesson.topics}</div>
         ${lesson.notes ? `<div class="lesson-notes">${lesson.notes}</div>` : ""}
+        ${lesson.song ? `<a class="lesson-song-link" href="lyrics.html?song=${encodeURIComponent(lesson.song)}">View lyrics &rarr;</a>` : ""}
       `;
       group.appendChild(card);
     }

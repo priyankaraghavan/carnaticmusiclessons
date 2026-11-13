@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "aaduvome-pallu-paaduvome",
+    "title": "Aaduvome Pallu Paaduvome",
+    "raga": "Desh",
+    "tala": "Adi",
+    "composer": "Subramanya Bharati",
+    "language": "Tamil",
+    "sections": [
+      {
+        "label": "Pallavi",
+        "lines": [
+          "Pallavi",
+          "ADuvOmE paLLu pAduvOmE Ananda sutantiram aDaindu viTTOm enru",
+          "charanam 2",
+          "pArppanai ayyarenra kAlamum pOccE veLLaip-parangiyai",
+          "duraiyenra kAlamum pOccE piccai",
+          "ErppAraip-paNiginra kAlamum pOccE tammai EippOrukkEval",
+          "sheyyum kAlamum pOccE"
+          "charanam 2",
+          "engum sutantiram enbade peccu nAm ellorum samam enbaduridiyAccu",
+          "shangu koNDE veTri UduvOmE idait-daraNikkellAm eDuttOduvOmE"
+
+        ]
+      }
+    ],
+    "notes": "Full lyrics (pallavi + 5 charanams) and English meaning are at the source link below — copy the remaining lines in here as you teach them.",
+    "source": "https://www.karnatik.com/c1248.shtml"
+  },
+  {
+    "slug": "example-song",
+    "title": "Example Song Title",
+    "raga": "Raga name",
+    "tala": "Tala name",
+    "composer": "Composer name",
+    "language": "Language",
+    "sections": [
+      { "label": "Pallavi", "lines": ["Line 1", "Line 2"] },
+      { "label": "Anupallavi", "lines": ["Line 1", "Line 2"] },
+      { "label": "Charanam", "lines": ["Line 1", "Line 2"] }
+    ],
+    "notes": "Optional meaning, pronunciation tips, or anything else worth remembering about this song. Delete this entry once you have real songs added.",
+    "source": ""
+  }
+]
